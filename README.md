@@ -25,20 +25,6 @@ Olá! Meu nome é Felipe Santiago e sou um apaixonado por tecnologia e desenvolv
             src="https://custom-icon-badges.demolab.com/github/stars/FelipeSantiago1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
-    <a href="LINK_PARA_SEU_CANAL_YOUTUBE">
-        <img 
-            alt="Inscritos no YouTube" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/SEU_ID_CANAL_YOUTUBE?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="LINK_PARA_SEU_INSTAGRAM">
-        <img 
-            alt="Seguidores no Instagram" 
-            title="Siga-me no Instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
