@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Felipe Santiago
+# Felipe Santiago
 
 **`Desenvolvedor FullStack`**
 
