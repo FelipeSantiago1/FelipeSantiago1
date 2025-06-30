@@ -47,13 +47,6 @@ Olá! Meu nome é Felipe Santiago e sou um apaixonado por tecnologia e desenvolv
 </div>
 
 <br/>
-
-### 📊 Minhas Estatísticas
-<div aling=center>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeSantiago1&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
-  
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantiago1&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantiago1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantiago1&layout=compact&langs_count=7&theme=dracula"/>
