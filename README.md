@@ -55,8 +55,8 @@ Olá! Meu nome é Felipe Santiago e sou um apaixonado por tecnologia e desenvolv
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantiago1&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantiago1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantiago1&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantiago1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantiago1&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
