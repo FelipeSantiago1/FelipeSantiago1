@@ -46,10 +46,4 @@ Olá! Meu nome é Felipe Santiago e sou um apaixonado por tecnologia e desenvolv
     <img alt="Python" title="Python" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
-<br/>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantiago1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantiago1&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
 ---
